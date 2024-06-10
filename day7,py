@@ -1,0 +1,10 @@
+#Medefinisikan variabel dengan data diri
+nama = "Jose Premudya Parwisagita"
+nim =  "A710230064"
+angkatan = 2023
+
+#Menampilkan data diri
+print("Data Diri:")
+print("Nama: " + nama)
+print("NIM: " + nim)
+print("Angkatan: " + str(angkatan))
