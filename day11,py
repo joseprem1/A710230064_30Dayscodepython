@@ -1,0 +1,7 @@
+string_satu = 'Halo, Selamat Datang'
+string_dua = "Halo, Selamat Datang"
+string_tiga = '\'Halo\', Selamat datang'
+
+print(string_satu)
+print(string_dua)
+print(string_tiga)
